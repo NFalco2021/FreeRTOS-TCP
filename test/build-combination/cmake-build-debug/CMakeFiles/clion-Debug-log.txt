@@ -1,0 +1,15 @@
+/home/falco/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/falco/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/falco/repos/FreeRTOS-TCP/test/build-combination -B /home/falco/repos/FreeRTOS-TCP/test/build-combination/cmake-build-debug
+-- The C compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Argument: OFF
+-- KERNEL_SOURCES Files are: /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/croutine.c;/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/event_groups.c;/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/list.c;/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/queue.c;/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/stream_buffer.c;/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/tasks.c;/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/timers.c
+-- TCP_SOURCES Files are: /home/falco/repos/FreeRTOS-TCP/FreeRTOS_ARP.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DHCP.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DNS.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_IP.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Sockets.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Stream_Buffer.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_IP.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_WIN.c;/home/falco/repos/FreeRTOS-TCP/FreeRTOS_UDP_IP.c
+-- MODULE_ROOT_DIR is: /home/falco/repos/FreeRTOS-TCP
+-- FREERTOS_KERNEL_DIR is: /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/falco/repos/FreeRTOS-TCP/test/build-combination/cmake-build-debug
