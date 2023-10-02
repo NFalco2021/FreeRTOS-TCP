@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_project: phony || CMakeFiles/project.dir
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/croutine.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/croutine.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/croutine.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -60,7 +60,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/event_groups.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/event_groups.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/event_groups.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -69,7 +69,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/list.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/list.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/list.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -78,7 +78,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/queue.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/queue.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/queue.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -87,7 +87,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/stream_buffer.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/stream_buffer.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/stream_buffer.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -96,7 +96,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/tasks.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/tasks.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/tasks.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -105,7 +105,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/timers.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/timers.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/timers.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel
@@ -114,7 +114,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_ARP.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_ARP.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_ARP.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -123,7 +123,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_ARP.c.o: C_C
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DHCP.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_DHCP.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DHCP.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -132,7 +132,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DHCP.c.o: C_
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DNS.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_DNS.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DNS.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -141,7 +141,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DNS.c.o: C_C
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_IP.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_IP.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_IP.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -150,7 +150,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_IP.c.o: C_CO
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Sockets.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_Sockets.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Sockets.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -159,7 +159,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Sockets.c.o:
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Stream_Buffer.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_Stream_Buffer.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Stream_Buffer.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -168,7 +168,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Stream_Buffe
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_IP.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_IP.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_IP.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -177,7 +177,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_IP.c.o: 
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_WIN.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_WIN.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_WIN.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -186,7 +186,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_WIN.c.o:
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_UDP_IP.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/FreeRTOS_UDP_IP.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_UDP_IP.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP
@@ -195,7 +195,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_UDP_IP.c.o: 
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang/heap_4.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang
@@ -204,7 +204,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/
 
 build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/portable/BufferManagement/BufferAllocation_2.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/portable/BufferManagement/BufferAllocation_2.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/portable/BufferManagement/BufferAllocation_2.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/portable/BufferManagement
@@ -213,7 +213,7 @@ build CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/portable/BufferManage
 
 build CMakeFiles/project.dir/Common/main.c.o: C_COMPILER__project_unscanned_Debug /home/falco/repos/FreeRTOS-TCP/test/build-combination/Common/main.c || cmake_object_order_depends_target_project
   DEP_FILE = CMakeFiles/project.dir/Common/main.c.o.d
-  FLAGS = -g -std=gnu90 -fdiagnostics-color=always
+  FLAGS = -static -g -std=gnu90 -fdiagnostics-color=always
   INCLUDES = -I/home/falco/repos/FreeRTOS-TCP/include -I/home/falco/repos/FreeRTOS-TCP/portable/Compiler/MSVC -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/include -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MSVC-MingW -I/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/Common -I/home/falco/repos/FreeRTOS-TCP/test/build-combination/AllDisable
   OBJECT_DIR = CMakeFiles/project.dir
   OBJECT_FILE_DIR = CMakeFiles/project.dir/Common
@@ -229,7 +229,8 @@ build CMakeFiles/project.dir/Common/main.c.o: C_COMPILER__project_unscanned_Debu
 # Link the executable bin/project
 
 build bin/project: C_EXECUTABLE_LINKER__project_Debug CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/croutine.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/event_groups.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/list.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/queue.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/stream_buffer.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/tasks.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/timers.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_ARP.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DHCP.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_DNS.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_IP.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Sockets.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_Stream_Buffer.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_IP.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_TCP_WIN.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/FreeRTOS_UDP_IP.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/test/FreeRTOS-Kernel/portable/MemMang/heap_4.c.o CMakeFiles/project.dir/home/falco/repos/FreeRTOS-TCP/portable/BufferManagement/BufferAllocation_2.c.o CMakeFiles/project.dir/Common/main.c.o
-  FLAGS = -g
+  FLAGS = -static -g
+  LINK_FLAGS = -static
   OBJECT_DIR = CMakeFiles/project.dir
   POST_BUILD = :
   PRE_LINK = :

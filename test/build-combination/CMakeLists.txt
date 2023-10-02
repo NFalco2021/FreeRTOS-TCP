@@ -10,6 +10,13 @@ set_property( GLOBAL PROPERTY USE_FOLDERS ON )
 set( CMAKE_C_STANDARD 90 )
 set( CMAKE_C_STANDARD_REQUIRED ON )
 
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -m64")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -g")
+
+set(CMAKE_FIND_LIBRARY_SUFFIXES ".a")
+set(CMAKE_EXE_LINKER_FLAGS "-static")
+set(CMAKE_C_FLAGS "-static")
+
 # Do not allow in-source build.
 if( ${PROJECT_SOURCE_DIR} STREQUAL ${PROJECT_BINARY_DIR} )
     message( FATAL_ERROR "In-source build is not allowed. Please build in a separate directory, such as ${PROJECT_SOURCE_DIR}/build." )
